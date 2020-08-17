@@ -1,4 +1,6 @@
 # rabbitMQ
+Este projeto tem com objetivo atender a arquitetura de mensageria do projeto Startup One da FIAP. 
+
 Integração do webchat IRC com o RabbitMQ
 
 Requisitos:
