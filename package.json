@@ -1,0 +1,26 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "Este projeto tem com objetivo atender a arquitetura de mensageria do projeto Startup One da FIAP.",
+  "main": "banco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardowallacedev/rabbitMQ.git"
+  },
+  "author": "Eduardo Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardowallacedev/rabbitMQ/issues"
+  },
+  "homepage": "https://github.com/eduardowallacedev/rabbitMQ#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "irc": "^0.5.2",
+    "level-party": "^4.0.0",
+    "uuid": "^8.3.0"
+  }
+}
