@@ -12,16 +12,16 @@ Instruções:
 2) Acessar o portal IRC pelo link https://webchat.freenode.net/#fiap35scj
 
 <ul>
-    <li>Processos executando em backgroud e consumindo mensagens do WebChat</li>
-</ul>
-
-<img src="img/3.png">
-
-<ul>
     <li>Cliente interagindo no canal</li>
 </ul>
 
 <img src="img/4.png">
+
+<ul>
+    <li>Processos executando em backgroud e consumindo mensagens do WebChat</li>
+</ul>
+
+<img src="img/3.png">
 
 <ul>
     <li>Filas criadas dinamicamente no RabbitMQ conforme conexões existentes</li>
