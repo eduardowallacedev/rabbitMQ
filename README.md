@@ -12,4 +12,4 @@ Instruções:
 2) Acessar o portal IRC pelo link https://webchat.freenode.net/#fiap35scj
 
 
-<img src=”img/3.png”>
+<img src="img/3.png">
