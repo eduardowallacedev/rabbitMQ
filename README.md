@@ -4,12 +4,20 @@ Este projeto tem com objetivo atender a arquitetura de mensageria do projeto Sta
 Integração do webchat IRC com o RabbitMQ
 
 Requisitos:
-1) Node 
-2) RabbitMQ
+1) Node instalado
+2) RabbitMQ instalado
 
 Instruções:
-1) A portal 8080 deve estar liberada
-2) Acessar o portal IRC pelo link https://webchat.freenode.net/#fiap35scj
+1) A portal 8080 deve estar liberada;
+2) Acessar o portal IRC pelo link https://webchat.freenode.net/#fiap35scj para interagir no canal;
+3) Iniciar os serviços principais do projeto para execução local:
+    ```   
+    consumer.js
+    irc.js
+    producer.js
+    server.js
+    banco.js
+    ```
 
 <ul>
     <li>Cliente interagindo no canal</li>
