@@ -8,7 +8,7 @@ Requisitos:
 2) RabbitMQ instalado
 
 Instruções:
-1) A portal 8080 deve estar liberada;
+1) A porta 8080 deve estar liberada;
 2) Acessar o portal IRC pelo link https://webchat.freenode.net/#fiap35scj para interagir no canal;
 3) Iniciar os serviços principais do projeto para execução local:
     ```   
