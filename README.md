@@ -16,3 +16,21 @@ Instruções:
 </ul>
 
 <img src="img/3.png">
+
+<ul>
+    <li>Cliente interagindo no canal</li>
+</ul>
+
+<img src="img/4.png">
+
+<ul>
+    <li>Filas criadas dinamicamente no RabbitMQ conforme conexões existentes</li>
+</ul>
+
+<img src="img/5.png">
+
+<ul>
+    <li>Painel do RabbitMQ com o overview das conexões e mensagens processadas</li>
+</ul>
+
+<img src="img/6.png">
